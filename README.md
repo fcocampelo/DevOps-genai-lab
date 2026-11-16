@@ -80,3 +80,5 @@ O agente recebe logs e diffs como conteúdo não confiável e é instruído a tr
 somente como dados, reduzindo risco de prompt injection. O token nativo do GitHub é
 usado apenas durante o workflow, e a resposta da IA é apresentada como recomendação
 para revisão humana.
+
+<!-- trigger didático: feature/nova-logica -->
